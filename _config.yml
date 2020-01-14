@@ -80,6 +80,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  topics:
+    output: true
 
 permalink: pretty
 

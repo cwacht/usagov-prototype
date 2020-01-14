@@ -3,6 +3,13 @@
 @import "uswds";
 
 // Add your SASS/CSS here
+.unrelated {
+  display: none;
+}
+.hidden{
+  display:none;
+}
+
 
 // default mode hide banner
 .usa-banner__content {
