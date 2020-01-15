@@ -27,9 +27,7 @@ American Citizens need a U.S. passport to enter and exit the United States. Here
     <div class="usa-checkbox">
       <input type="checkbox" name="subtopics" id="minors" value="Passports for minors" class="usa-checkbox__input"/>
       <label for="minors" class="usa-checkbox__label">Passports for minors</label>
-    </div>
-    <br>      
-    <input type="submit" value="Submit" />      
+    </div>  
   </fieldset>      
 </form>
 
